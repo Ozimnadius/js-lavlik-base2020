@@ -2,7 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c31eee-9b17-46ab-a953-c7e6d73fdb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day1/js-lesson1-src/js-lesson1-hw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-hw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/1-hw/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/1-hw/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/1-hw/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/2-attr-props/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/2-attr-props/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/2-attr-props/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/4-bubbles/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/4-bubbles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/4-bubbles/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/5-hw-bubbles/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/5-hw-bubbles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/5-hw-bubbles/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/hw/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/hw/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/hw/js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,13 +54,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day1/js-lesson1-src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day2" />
       <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day1\js-lesson1-src" />
     </key>
   </component>
@@ -54,7 +76,10 @@
       <workItem from="1610608281737" duration="1210000" />
       <workItem from="1610690079549" duration="596000" />
       <workItem from="1610950760094" duration="2891000" />
-      <workItem from="1611127916273" duration="4713000" />
+      <workItem from="1611127916273" duration="7571000" />
+      <workItem from="1611208388057" duration="595000" />
+      <workItem from="1611295422809" duration="605000" />
+      <workItem from="1611303737715" duration="1846000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1610957499728</created>
@@ -63,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610957499728</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day 1">
+      <created>1611139420023</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611139420023</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+    <MESSAGE value="day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 1" />
   </component>
 </project>
