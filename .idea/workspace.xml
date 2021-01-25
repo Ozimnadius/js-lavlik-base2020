@@ -2,28 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c31eee-9b17-46ab-a953-c7e6d73fdb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-hw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/1-hw/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/1-hw/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/1-hw/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/2-attr-props/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/2-attr-props/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/2-attr-props/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/3-events/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/4-bubbles/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/4-bubbles/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/4-bubbles/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/5-hw-bubbles/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/5-hw-bubbles/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/5-hw-bubbles/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/hw/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/hw/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/js-lesson2-src/hw/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-hw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/1-hw/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/1-hw/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/1-hw/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/2-hw1-with-map/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/2-hw1-with-map/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/2-hw1-with-map/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/3-hw-patterns/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/3-hw-patterns/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/3-hw-patterns/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/4-scroll/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/4-scroll/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/4-scroll/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/4-scroll/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/prepros.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,18 +45,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day3" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day3" />
       <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day2" />
       <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day1\js-lesson1-src" />
     </key>
@@ -79,7 +77,8 @@
       <workItem from="1611127916273" duration="7571000" />
       <workItem from="1611208388057" duration="595000" />
       <workItem from="1611295422809" duration="605000" />
-      <workItem from="1611303737715" duration="1846000" />
+      <workItem from="1611303737715" duration="3131000" />
+      <workItem from="1611554191845" duration="7481000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1610957499728</created>
@@ -95,15 +94,36 @@
       <option name="project" value="LOCAL" />
       <updated>1611139420023</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day 2">
+      <created>1611321118246</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611321118246</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add gitignore" />
     <MESSAGE value="day 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 1" />
+    <MESSAGE value="day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 2" />
   </component>
 </project>
