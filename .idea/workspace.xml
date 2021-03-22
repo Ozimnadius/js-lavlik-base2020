@@ -2,24 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c31eee-9b17-46ab-a953-c7e6d73fdb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day3/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-hw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/1-hw/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/1-hw/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/1-hw/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/2-hw1-with-map/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/2-hw1-with-map/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/2-hw1-with-map/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/3-hw-patterns/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/3-hw-patterns/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/3-hw-patterns/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/4-scroll/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/4-scroll/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/4-scroll/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js-lesson3-src/4-scroll/prepros.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-hw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/1-hw/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/1-hw/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/1-hw/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/1-hw/prepros.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/2-btn-anim/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/2-btn-anim/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/2-btn-anim/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/3-debounce/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/3-debounce/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/3-debounce/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/4-faq/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/4-faq/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day4/js-lesson4-src/4-faq/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prepros.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +30,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpDebugGeneral" xdebug_debug_port="9001" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
+  <component name="PhpDebugGeneral" xdebug_debug_port="9001" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false">
+    <xdebug_debug_ports port="9001" />
+    <xdebug_debug_ports port="9003" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.0" />
   <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="localhost" />
   <component name="ProjectId" id="1n3ADOCms6bFOQ7vyuZRdSzRFgE" />
@@ -51,13 +51,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day4" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day4" />
       <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day3" />
       <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day2" />
       <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day1\js-lesson1-src" />
@@ -78,7 +79,18 @@
       <workItem from="1611208388057" duration="595000" />
       <workItem from="1611295422809" duration="605000" />
       <workItem from="1611303737715" duration="3131000" />
-      <workItem from="1611554191845" duration="7481000" />
+      <workItem from="1611554191845" duration="8123000" />
+      <workItem from="1611641092694" duration="2062000" />
+      <workItem from="1611663630562" duration="1270000" />
+      <workItem from="1613460442804" duration="1266000" />
+      <workItem from="1613541215829" duration="598000" />
+      <workItem from="1614148832145" duration="4184000" />
+      <workItem from="1614779896301" duration="782000" />
+      <workItem from="1614837736548" duration="360000" />
+      <workItem from="1616404042621" duration="1228000" />
+      <workItem from="1616406219950" duration="132000" />
+      <workItem from="1616406381559" duration="1686000" />
+      <workItem from="1616416383947" duration="3119000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1610957499728</created>
@@ -101,11 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611321118246</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 3">
+      <created>1611583017337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611583017337</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.config" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -124,6 +146,7 @@
     <MESSAGE value="add gitignore" />
     <MESSAGE value="day 1" />
     <MESSAGE value="day 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 2" />
+    <MESSAGE value="day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3" />
   </component>
 </project>
