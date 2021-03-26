@@ -2,51 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c31eee-9b17-46ab-a953-c7e6d73fdb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-hw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/1-hw-throttle/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/1-hw-throttle/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/1-hw-throttle/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/10-timers-proto/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/10-timers-proto/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/10-timers-proto/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/11-es6/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/11-es6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/11-es6/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/2-anim/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/2-anim/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/2-anim/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/3-anim-simple/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/3-anim-simple/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/3-anim-simple/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/4-anim-flag/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/4-anim-flag/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/4-anim-flag/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/5-anim-refactoring/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/5-anim-refactoring/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/5-anim-refactoring/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/6-timers-bad/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/6-timers-bad/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/6-timers-bad/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/7-timers-fn/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/7-timers-fn/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/7-timers-fn/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/8-timers-obj/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/8-timers-obj/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/8-timers-obj/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/9-timers-fn-links/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/9-timers-fn-links/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/9-timers-fn-links/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/hw-slider/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/hw-slider/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/hw-slider/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/hw-slider/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/hw-slider/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/hw-slider/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/hw-slider/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/hw-slider/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/hw-slider/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/hw-slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day5/js-lesson5-src/hw-slider/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-hw.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/1-hw/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/1-hw/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/1-hw/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/1-hw/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/1-hw/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/1-hw/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/1-hw/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/1-hw/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/1-hw/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/1-hw/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/1-hw/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/2-hw-anim/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/2-hw-anim/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/2-hw-anim/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/2-hw-anim/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/2-hw-anim/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/2-hw-anim/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/2-hw-anim/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/2-hw-anim/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/2-hw-anim/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/2-hw-anim/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/2-hw-anim/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/3-arrow-fn/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/3-arrow-fn/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/4-hw1-arrow/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/4-hw1-arrow/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/4-hw1-arrow/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/5-oop-extends/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/5-oop-extends/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day6/js-lesson6-src/5-oop-extends/js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +111,10 @@
       <workItem from="1616478418201" duration="1204000" />
       <workItem from="1616568078458" duration="3660000" />
       <workItem from="1616587986615" duration="4251000" />
-      <workItem from="1616651757838" duration="1558000" />
+      <workItem from="1616651757838" duration="4948000" />
+      <workItem from="1616670311593" duration="596000" />
+      <workItem from="1616678212916" duration="789000" />
+      <workItem from="1616753626763" duration="3596000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1610957499728</created>
@@ -155,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611583017337</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="day 5">
+      <created>1616658061610</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616658061611</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,11 +173,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add gitignore" />
     <MESSAGE value="day 1" />
     <MESSAGE value="day 2" />
     <MESSAGE value="day 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3" />
+    <MESSAGE value="day 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 5" />
   </component>
 </project>
