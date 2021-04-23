@@ -2,59 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75c31eee-9b17-46ab-a953-c7e6d73fdb76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-hw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/1-hw-slider/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/1-hw-slider/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/1-hw-slider/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/1-hw-slider/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/1-hw-slider/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/1-hw-slider/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/1-hw-slider/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/1-hw-slider/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/1-hw-slider/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/1-hw-slider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/1-hw-slider/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/2-hw-timer/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/2-hw-timer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/2-hw-timer/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/css/swiper-bundle.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/3-swiper/js/swiper-bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/js/jquery-3.5.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/4-owl/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/5-wtf-events/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/5-wtf-events/img/Chrysanthemum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/5-wtf-events/img/Desert.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/5-wtf-events/img/Hydrangeas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/5-wtf-events/img/Jellyfish.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/5-wtf-events/img/Koala.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/5-wtf-events/img/Lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/5-wtf-events/img/Penguins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/5-wtf-events/img/Tulips.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/5-wtf-events/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/js-lesson7-src/5-wtf-events/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/dist/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/dist/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/src/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/src/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/src/timers/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/src/timers/format.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/src/timers/nice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8-webpack/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/1-hw-slider/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/1-hw-slider/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/1-hw-slider/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/1-hw-slider/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/1-hw-slider/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/1-hw-slider/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/1-hw-slider/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/1-hw-slider/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/1-hw-slider/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/1-hw-slider/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/1-hw-slider/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/img/Chrysanthemum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/img/Desert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/img/Hydrangeas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/img/Jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/img/Koala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/img/Lighthouse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/img/Penguins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/img/Tulips.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/js/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/2-hw-owl/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/3-animate-ie11-fix/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/3-animate-ie11-fix/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/3-animate-ie11-fix/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/4-scroll-ie11-fix/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/4-scroll-ie11-fix/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8/js-lesson8-src/l8/4-scroll-ie11-fix/js/scripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,18 +88,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day8" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day8" />
       <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day5" />
       <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day4" />
       <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day3" />
       <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day2" />
-      <recent name="C:\OpenServer\domains\js-lavrik-base(2020)\day1\js-lesson1-src" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -146,7 +145,9 @@
       <workItem from="1617892405097" duration="605000" />
       <workItem from="1618563062803" duration="1851000" />
       <workItem from="1618811462175" duration="597000" />
-      <workItem from="1618985533890" duration="3122000" />
+      <workItem from="1618985533890" duration="3141000" />
+      <workItem from="1619089416022" duration="1530000" />
+      <workItem from="1619175630031" duration="386000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1610957499728</created>
@@ -190,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616761758103</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="day 7">
+      <created>1618996659987</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618996659987</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +229,7 @@
     <MESSAGE value="day 3" />
     <MESSAGE value="day 5" />
     <MESSAGE value="day 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 6" />
+    <MESSAGE value="day 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 7" />
   </component>
 </project>
